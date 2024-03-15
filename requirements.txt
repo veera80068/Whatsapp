@@ -6,4 +6,5 @@ seaborn
 emojis
 wordcloud
 urlextract
+python-3.9
 re
