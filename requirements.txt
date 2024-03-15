@@ -8,5 +8,5 @@ matplotlib.pyplot
 seaborn 
 emojis 
 wordcloud
-urlextrac
+urlextract
 collections
